@@ -1,5 +1,5 @@
 # Retro Bowl NIL
-NIL enchancement mod for Retro Bowl College 26
+NIL enhancement mod for Retro Bowl College 26
 
 
 This is a mod for Retro Bowl College that aims to improve the game's balancing and add some adjustments that more accurately reflect the modern transfer portal / NIL era.
